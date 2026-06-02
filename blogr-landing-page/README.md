@@ -4,8 +4,8 @@ A responsive landing page built as a Frontend Mentor challenge, completed as par
 
 ## Links
 
-- Live Site: 
-- GitHub Repo: 
+- Live Site: https://blogr-landingg-page.netlify.app/
+- GitHub Repo: https://github.com/Tomi2026/blogr-landing-page/
 
 ## Built With
 

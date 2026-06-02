@@ -4,8 +4,8 @@ A responsive landing page built as a Frontend Mentor challenge, completed as par
 
 ## Links
 
-- **Live Site:
-- **GitHub Repo: 
+- Live Site: 
+- GitHub Repo: 
 
 ## Built With
 
@@ -61,12 +61,6 @@ Deploy for free using any of:
 - Implemented scroll-reveal with `IntersectionObserver` (no library needed)
 - SVG icons kept inline/external for crisp rendering at all sizes
 - CSS `clamp()` for fluid typography scaling
-
-## Author
-
-- **Name:** _Your Name_
-- **Matric:** _Your Matric Number_
-- **Email:** _Your Email_
 
 ---
 
